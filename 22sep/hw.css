@@ -1,0 +1,13 @@
+body{
+    background-color: #F9F5F0;
+}
+
+#name{
+    text-align: center;
+}
+#first-line,#second-line{
+    background-color: #F4991A;
+}
+dl{
+    background-color: #F2EAD3;
+}

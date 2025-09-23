@@ -1,0 +1,12 @@
+#first-line{
+    background-color: aqua;
+}
+.table-bordered{
+    border: 2px solid black;
+}
+.container{
+    margin-top: 20px;
+}
+#name{
+    text-align: center;
+}
